@@ -1,1 +1,1 @@
-print('merging to main barnch from feature branch')
+print('merging to main barnch from feature branchckout ')
