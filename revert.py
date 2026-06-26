@@ -1,1 +1,1 @@
-print("revertgi the commit")
+print("revert")
