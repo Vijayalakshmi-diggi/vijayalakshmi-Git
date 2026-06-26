@@ -1,0 +1,1 @@
+print("lightweight tag and annotated tag")
