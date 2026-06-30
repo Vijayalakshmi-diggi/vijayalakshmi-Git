@@ -1,2 +1,2 @@
-print("detached haed")
+print("detached head")
 
